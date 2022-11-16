@@ -1,0 +1,5 @@
+        1) build
+        2) tester
+        3) test type
+        4) checking
+        5) result
